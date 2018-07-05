@@ -14,7 +14,7 @@
     <body>
         <form>
             <input type="text" placeholder="Ingrese Usuario">
-            <input type="text" placeholder="Contraseña">
+            <input type="password" placeholder="Contraseña">
             <input type="button" value="Ingresar">
             
         </form>
